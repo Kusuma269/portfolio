@@ -20,7 +20,7 @@
             </p>
             <div className="social-icons">
                 <i>
-                    <a href="https://www.ssvkusumamungi@gmail.com ">
+                    <a href="mailto:ssvkusumamungi@gmail.com ">
                     <img src="https://i.pinimg.com/564x/06/68/e8/0668e8756248014503ce29515f768fcc.jpg" alt="Social Icon 1" />
                 </a>
                 
