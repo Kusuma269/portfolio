@@ -20,13 +20,23 @@
             </p>
             <div className="social-icons">
                 <i>
+                    <a href="https:/www.ssvkusumamungi@gmail.com ">
                     <img src="https://i.pinimg.com/564x/06/68/e8/0668e8756248014503ce29515f768fcc.jpg" alt="Social Icon 1" />
+                </a>
+                
                 </i>
+            
                 <i>
+                    <a  href="https://www.linkedin.com/in/kusuma-mungi-0991231ab"> 
                     <img src="https://image.similarpng.com/file/similarpng/very-thumbnail/2020/05/Linkedin-logo-purple-PNG.png" alt="Social Icon 2" />
+                    </a>
+                
                 </i>
                 <i>
+                <a  href="https://github.com/Kusuma269"> 
                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI7nCwuEAIV1aZoOa-6LCbxX9wQ2GyDGgBRA&s" alt="Social Icon 3" />
+             </a>
+                
                 </i>
             </div>
             <button className="download-cv">Download CV</button>
